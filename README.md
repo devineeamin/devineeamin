@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @devineeamin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Devinee Amin
 
-<!---
-devineeamin/devineeamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently a Computer Science student at the University of Texas at Dallas
+
+📫 I can be reached via email at devinee12@gmail.com or via LinkedIn at https://www.linkedin.com/in/devineeamin/
