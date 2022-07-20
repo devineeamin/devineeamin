@@ -1,6 +1,6 @@
-👋 Hi, I’m Devinee Amin
+## 👋 Hi, I’m Devinee Amin
 
-🌱 I'm Computer Science student at the University of Texas at Dallas
+🌱 Computer Science student at the University of Texas at Dallas
 
 💼 Curently a Software Engineering Intern at Cisco Systems (Summer 2022)
 
