@@ -2,7 +2,7 @@
 
 🌱 Computer Science student at the University of Texas at Dallas
 
-💼 Recently a Software Engineering Intern at Cisco Systems (Summer 2022)
+💼 Previous Software Engineering Intern at Cisco Systems (Summer 2022)
 
 💻 Marketing Team Lead for WEHack - UTD's gender-focused hackathon
 
