@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Devinee Amin
+## 👋 Hi, I’m Devinee
 
 🌱 Computer Science student at the University of Texas at Dallas
 
